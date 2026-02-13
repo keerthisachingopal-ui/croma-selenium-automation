@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes> 
+      <class name="cromaTestspkg.HomePageTest"/>
+      <class name="cromaTestspkg.LoginTest"/>
+      <class name="cromaTestspkg.SearchResultsPageTest"/>
+      <class name="cromaTestspkg.ProductPageTest"/>
+      <class name="cromaTestspkg.CartPageTest"/>
+    
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

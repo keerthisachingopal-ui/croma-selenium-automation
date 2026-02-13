@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="cromaTestspkg.CartPageTest">
+        <methods>
+          <include name="logResult"/>
+          <include name="verifyCartpageTitle"/>
+          <include name="setUp"/>
+          <include name="bfrmthd"/>
+          <include name="productAddedandclickLogo"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- cromaTestspkg.CartPageTest -->
+      <class name="cromaTestspkg.SearchResultsPageTest">
+        <methods>
+          <include name="searchResultandProduct"/>
+          <include name="logResult"/>
+          <include name="setUp"/>
+          <include name="bfrmthd"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- cromaTestspkg.SearchResultsPageTest -->
+      <class name="cromaTestspkg.ProductPageTest">
+        <methods>
+          <include name="producttoCart"/>
+          <include name="logResult"/>
+          <include name="setUp"/>
+          <include name="bfrmthd"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- cromaTestspkg.ProductPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

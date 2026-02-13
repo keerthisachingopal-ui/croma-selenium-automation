@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-13T14:00:24 IST" name="Suite" finished-at="2026-02-13T14:01:51 IST" duration-ms="87600">
+    <groups>
+    </groups>
+    <test started-at="2026-02-13T14:00:24 IST" name="Test" finished-at="2026-02-13T14:01:51 IST" duration-ms="87600">
+      <class name="cromaTestspkg.CartPageTest">
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:44 IST" name="bfrmthd" finished-at="2026-02-13T14:01:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="productAddedandclickLogo()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:44 IST" name="productAddedandclickLogo" finished-at="2026-02-13T14:01:46 IST" duration-ms="1727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productAddedandclickLogo -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:46 IST" name="logResult" finished-at="2026-02-13T14:01:46 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productAddedandclickLogo status=SUCCESS method=CartPageTest.productAddedandclickLogo()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:46 IST" name="bfrmthd" finished-at="2026-02-13T14:01:46 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="verifyCartpageTitle()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:46 IST" name="verifyCartpageTitle" finished-at="2026-02-13T14:01:49 IST" duration-ms="3024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartpageTitle -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c]" started-at="2026-02-13T14:01:49 IST" name="logResult" finished-at="2026-02-13T14:01:49 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCartpageTitle status=SUCCESS method=CartPageTest.verifyCartpageTitle()[pri:0, instance:cromaTestspkg.CartPageTest@77c2494c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+      </class> <!-- cromaTestspkg.CartPageTest -->
+      <class name="cromaTestspkg.LoginTest">
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.LoginTest@6743e411]" started-at="2026-02-13T14:00:55 IST" name="bfrmthd" finished-at="2026-02-13T14:00:55 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="verifyLogin()[pri:0, instance:cromaTestspkg.LoginTest@6743e411]" started-at="2026-02-13T14:00:55 IST" name="verifyLogin" finished-at="2026-02-13T14:01:18 IST" duration-ms="23115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.LoginTest@6743e411]" started-at="2026-02-13T14:01:18 IST" name="logResult" finished-at="2026-02-13T14:01:18 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogin status=SUCCESS method=LoginTest.verifyLogin()[pri:0, instance:cromaTestspkg.LoginTest@6743e411] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+      </class> <!-- cromaTestspkg.LoginTest -->
+      <class name="cromaTestspkg.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:24 IST" name="setUp" finished-at="2026-02-13T14:00:48 IST" duration-ms="24654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:49 IST" name="bfrmthd" finished-at="2026-02-13T14:00:49 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="verifyHamburgerMenuVisible()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:49 IST" name="verifyHamburgerMenuVisible" finished-at="2026-02-13T14:00:50 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHamburgerMenuVisible -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="logResult" finished-at="2026-02-13T14:00:50 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHamburgerMenuVisible status=SUCCESS method=HomePageTest.verifyHamburgerMenuVisible()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="bfrmthd" finished-at="2026-02-13T14:00:50 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="verifyHomepageloads()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="verifyHomepageloads" finished-at="2026-02-13T14:00:50 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageloads -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="logResult" finished-at="2026-02-13T14:00:50 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomepageloads status=SUCCESS method=HomePageTest.verifyHomepageloads()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="bfrmthd" finished-at="2026-02-13T14:00:50 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="verifyLogoNavigatesToHome()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:50 IST" name="verifyLogoNavigatesToHome" finished-at="2026-02-13T14:00:55 IST" duration-ms="5058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoNavigatesToHome -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:00:55 IST" name="logResult" finished-at="2026-02-13T14:00:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogoNavigatesToHome status=SUCCESS method=HomePageTest.verifyLogoNavigatesToHome()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:cromaTestspkg.HomePageTest@6989da5e]" started-at="2026-02-13T14:01:49 IST" name="tearDown" finished-at="2026-02-13T14:01:51 IST" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cromaTestspkg.HomePageTest -->
+      <class name="cromaTestspkg.SearchResultsPageTest">
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.SearchResultsPageTest@3eb25e1a]" started-at="2026-02-13T14:01:18 IST" name="bfrmthd" finished-at="2026-02-13T14:01:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="searchResultandProduct()[pri:0, instance:cromaTestspkg.SearchResultsPageTest@3eb25e1a]" started-at="2026-02-13T14:01:18 IST" name="searchResultandProduct" finished-at="2026-02-13T14:01:27 IST" duration-ms="9204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResultandProduct -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.SearchResultsPageTest@3eb25e1a]" started-at="2026-02-13T14:01:27 IST" name="logResult" finished-at="2026-02-13T14:01:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchResultandProduct status=SUCCESS method=SearchResultsPageTest.searchResultandProduct()[pri:0, instance:cromaTestspkg.SearchResultsPageTest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+      </class> <!-- cromaTestspkg.SearchResultsPageTest -->
+      <class name="cromaTestspkg.ProductPageTest">
+        <test-method is-config="true" signature="bfrmthd()[pri:0, instance:cromaTestspkg.ProductPageTest@477b4cdf]" started-at="2026-02-13T14:01:27 IST" name="bfrmthd" finished-at="2026-02-13T14:01:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrmthd -->
+        <test-method signature="producttoCart()[pri:0, instance:cromaTestspkg.ProductPageTest@477b4cdf]" started-at="2026-02-13T14:01:27 IST" name="producttoCart" finished-at="2026-02-13T14:01:44 IST" duration-ms="17104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- producttoCart -->
+        <test-method is-config="true" signature="logResult(org.testng.ITestResult)[pri:0, instance:cromaTestspkg.ProductPageTest@477b4cdf]" started-at="2026-02-13T14:01:44 IST" name="logResult" finished-at="2026-02-13T14:01:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=producttoCart status=SUCCESS method=ProductPageTest.producttoCart()[pri:0, instance:cromaTestspkg.ProductPageTest@477b4cdf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResult -->
+      </class> <!-- cromaTestspkg.ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
